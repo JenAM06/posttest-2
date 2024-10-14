@@ -127,8 +127,8 @@ jika admin menginputkan Nilai yang tidak Valid, program akan melakukan perulanga
 
 4. Hapus loker (delete)
 
-  ![Screenshot 2024-10-15 001705](https://github.com/user-attachments/assets/92885625-6cdd-43b2-a2a5-378544ec5c70)
-
+![Screenshot 2024-10-15 011127](https://github.com/user-attachments/assets/ea2f14f0-11bf-4ca0-9145-33a8eabc4d03)
+ 
   setelah menghapus nomor loker, kita bisa memilih kembali ingin menghapus lagi atau ke menu admin.
 
 5. Log out (kembali ke menu utama)
